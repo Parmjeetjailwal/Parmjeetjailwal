@@ -13,9 +13,9 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/JailwalParmjeet) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmjeet-jailwal-858b38170/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vermaparmjeet@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/parmjeet.jailwal)
 <hr>
 
-<!--  TOP Technologies That I use  -->
+<!--  TOP Skills   -->
 
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My skills</h3>
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-Skills"></a>🚀 My Skills</h3>
 
 [![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
