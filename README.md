@@ -1,7 +1,7 @@
 [![Github](https://img.shields.io/github/followers/Parmjeetjailwal?label=Follow&style=social)](https://github.com/Parmjeetjailwal)
 # Hi there 👋 My name is Parmjeet Jailwal!
 
-<img align="right" alt="Coding" width="400" height="300" src="https://d5z9c7j2.rocketcdn.me/career/wp-content/uploads/2021/01/00086-desk-anim-v0.3.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif">
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
 🌱&nbsp;&nbsp; Learning all about Open Source
