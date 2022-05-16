@@ -16,7 +16,7 @@
 <!--  Portfolio   -->
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫Check out my portfolio here: </h3>
 
-[![Website Badge](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://parmjailwal8685123.z29.web.core.windows.net/)](https://parmjailwal8685123.z29.web.core.windows.net/)
+[![Website Badge](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://parmjeetjailwal.github.io/Portfolio/)](https://parmjailwal8685123.z29.web.core.windows.net/)
 
 <hr>
 
